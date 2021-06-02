@@ -51,6 +51,6 @@ tensorflow==1.14.0
 tensorflow-estimator==1.14.0
 tensorlayer==1.8.0
 termcolor==1.1.0
-urllib3==1.25.3
+urllib3==1.26.5
 Werkzeug==0.15.4
 wrapt==1.11.2
